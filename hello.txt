@@ -1,2 +1,2 @@
-hello Git!
 hello Vue! master test!
+hello Git! hot-fix test!
